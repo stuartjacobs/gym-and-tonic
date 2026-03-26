@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import { connectDB } from "@/lib/mongodb";
 import { Comedian } from "@/models";
 import { json, error } from "@/lib/api";
