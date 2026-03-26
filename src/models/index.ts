@@ -1,0 +1,10 @@
+export { Comedian } from "./Comedian";
+export type { IComedian } from "./Comedian";
+export { Show } from "./Show";
+export type { IShow } from "./Show";
+export { Series } from "./Series";
+export type { ISeries } from "./Series";
+export { Episode } from "./Episode";
+export type { IEpisode } from "./Episode";
+export { UserList } from "./UserList";
+export type { IUserList } from "./UserList";
